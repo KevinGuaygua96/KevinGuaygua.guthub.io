@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+button {
+    background-color: black;
+    color: white;
+    font-family: "proxima nova";
+    font-size: 17px;
+    text-align: center;
+    border: solid;
+    border-radius: 80px;
+    padding: 10px 20px;
+    margin-left: 80px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 5px 50px 0 #00edff inset, 0 5px 50px 0 #00edff;
+}
+h1 {
+    font-size: 50px;
+    text-decoration-line: underline;
+    color: white;
+    text-align: center;
+    margin-top: auto;
+}

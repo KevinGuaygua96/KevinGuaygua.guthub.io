@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+a {
+    color: white;
+    font-size: 50px;
+    margin-left: 30px;
+    margin-bottom: auto;
+    text-align: center;
+}
+h1 {
+    font-size: 50px;
+    text-decoration-line: underline;
+    color: white;
+    text-align: center;
+    margin-top: auto;
+}
+p {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+button {
+    background-color: black;
+    color: white;
+    font-family: "proxima nova";
+    font-size: 17px;
+    text-align: center;
+    border: solid;
+    border-radius: 80px;
+    padding: 10px 20px;
+    margin-left: 80px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 5px 50px 0 #00edff inset, 0 5px 50px 0 #00edff;
+}
+div {
+    margin-left: 100px;
+    margin-top: 50px;
+}

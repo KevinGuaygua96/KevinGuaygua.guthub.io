@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+a {
+    color: white;
+    font-size: 50px;
+    margin-left: 187px;
+    margin-bottom: auto;
+    text-align: center;
+}
+div {
+margin-left: 375px;
+}
+button {
+    background-color: black;
+    color: white;
+    font-family: "proxima nova";
+    font-size: 17px;
+    text-align: center;
+    border: solid;
+    border-radius: 100px;
+    padding: 10px 20px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 0 5px 50px 0 #00edff inset, 0 5px 50px 0 #00edff;
+}
+img {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 10px%;
+    border: 5px solid #555;
+}
